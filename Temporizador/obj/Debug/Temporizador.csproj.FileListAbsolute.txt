@@ -1,0 +1,13 @@
+D:\Microsoft Visual Studio\2019\Source\repos\Temporizador\bin\Debug\Temporizador.exe.config
+D:\Microsoft Visual Studio\2019\Source\repos\Temporizador\bin\Debug\Temporizador.exe
+D:\Microsoft Visual Studio\2019\Source\repos\Temporizador\bin\Debug\Temporizador.pdb
+D:\Microsoft Visual Studio\2019\Source\repos\Temporizador\obj\Debug\Temporizador.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\2019\Source\repos\Temporizador\obj\Debug\Temporizador.Properties.Resources.resources
+D:\Microsoft Visual Studio\2019\Source\repos\Temporizador\obj\Debug\Temporizador.csproj.GenerateResource.cache
+D:\Microsoft Visual Studio\2019\Source\repos\Temporizador\obj\Debug\Temporizador.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\2019\Source\repos\Temporizador\obj\Debug\Temporizador.exe
+D:\Microsoft Visual Studio\2019\Source\repos\Temporizador\obj\Debug\Temporizador.pdb
+D:\Microsoft Visual Studio\2019\Source\repos\Temporizador\obj\Debug\Temporizador.frmListaGeral.resources
+D:\Microsoft Visual Studio\2019\Source\repos\Temporizador\obj\Debug\Temporizador.frmTemporizador.resources
+D:\Microsoft Visual Studio\2019\Source\repos\Temporizador\obj\Debug\Temporizador.frmListaDoDia.resources
+D:\Microsoft Visual Studio\2019\Source\repos\Temporizador\obj\Debug\Temporizador.frmTarefas.resources
